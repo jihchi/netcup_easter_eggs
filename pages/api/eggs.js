@@ -11,6 +11,7 @@ const refs = [
   "/vserver/",
   "/vserver/root-server-erweiterungen.php",
   "/vserver/vps.php",
+  "/vserver/vserver_guenstig_qualitaet.php",
   "/vserver/vserver_images.php",
 ];
 
