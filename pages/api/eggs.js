@@ -8,6 +8,7 @@ const refs = [
   "/ueber-netcup/auszeichnungen.php",
   "/ueber-netcup/ddos-schutz-filter.php",
   "/ueber-netcup/hardware-infrastruktur.php",
+  "/ueber-netcup/rechenzentrum.php",
   "/vserver/",
   "/vserver/root-server-erweiterungen.php",
   "/vserver/vps.php",
